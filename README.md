@@ -21,3 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+
+![snake](https://raw.githubusercontent.com/netanel576/netanel576/output/snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/netanel576/netanel576/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/netanel576/netanel576/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/netanel576/netanel576/output/snake-dark.svg" alt="contribution snake">
+</picture>
