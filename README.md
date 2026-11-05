@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=netanel576&show_icons=true&locale=en" alt="netanel576" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=netanel576)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 
 
